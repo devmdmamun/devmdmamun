@@ -6,7 +6,8 @@
 ## I'm a Student & Self-taught Developer!!
 
 - 🖥️ I recently Created my first react js website: [Ligzer-anime][project]!
-- 🏫 I’m currently learning everything 🤣
+- 👷 I'm currently working on a react Messaging app.
+- 🏫 I’m currently learning React js.
 - 🥅 2021 Goals: Learning things that I don't know.
 - ⚡ Fun fact: I love programming.
 
