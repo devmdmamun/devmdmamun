@@ -8,7 +8,7 @@
 - 🖥️ I recently Created my first react js website: [Ligzer-anime][project]!
 - 👷 I'm currently working on a react Messaging app.
 - 🏫 I’m currently learning React js & firebase.
-- 🥅 2021 Goals: Learning things that I don't know.
+- 🥅 2022 Goals: Learning useful technology that I don't know.
 - ⚡ Fun fact: I love programming.
 
 ### Connect with me:
