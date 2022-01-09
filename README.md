@@ -5,8 +5,8 @@
 
 ## I'm a Student & Self-taught Developer!!
 
-- 🖥️ I recently Created my first react js website: [Ligzer-anime][project]!
-- 👷 I'm currently working on a react Messaging app.
+- 🖥️ My recent project: [Spendify][project]!
+- 👷 I'm currently working on a react project manager.
 - 🏫 I’m currently learning React js & firebase.
 - 🥅 2022 Goals: Learning useful technology that I don't know.
 - ⚡ Fun fact: I love programming.
@@ -36,7 +36,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" />][website]
 
 [website]: https://devmdmamun.com
-[project]: https://anime.ligzer.com
+[project]: https://spendify-8597c.web.app
 [twitter]: https://twitter.com/devmdmamun
 [instagram]: https://instagram.com/devmdmamun
 [facebook]: https://facebook.com/devmdmamun
