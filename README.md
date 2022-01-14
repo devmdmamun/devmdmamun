@@ -15,8 +15,6 @@
 
 [<img align="left" alt="devmdmamun.com" width="22px" src="https://anime.ligzer.com/favicon.ico" />][website]
 [<img align="left" alt="devmdmamun | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="devmdmamun | facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-[<img align="left" alt="devmdmamun | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,4 +37,3 @@
 [project]: https://spendify-8597c.web.app
 [twitter]: https://twitter.com/devmdmamun
 [instagram]: https://instagram.com/devmdmamun
-[facebook]: https://facebook.com/devmdmamun
