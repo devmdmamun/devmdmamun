@@ -5,7 +5,7 @@
 
 ## I'm a Student & Self-taught Developer!!
 
-- 🖥️ My recent project: [Spendify][project]!
+- 🖥️ My recent project: [Project manager][project]!
 - 👷 I'm currently working on a react project manager.
 - 🏫 I’m currently learning React js & firebase.
 - 🥅 2022 Goals: Learning useful technology that I don't know.
@@ -34,6 +34,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" />][website]
 
 [website]: https://devmdmamun.com
-[project]: https://spendify-8597c.web.app
+[project]: https://proligz.web.app/
 [twitter]: https://twitter.com/devmdmamun
 [instagram]: https://instagram.com/devmdmamun
