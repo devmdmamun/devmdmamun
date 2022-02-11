@@ -1,13 +1,13 @@
-### Hi there, I'm Md Mamun Islam - aka [DevMdMamun][website] 👋
+![Banner](./img/banner.png)
 
 [![Website](https://img.shields.io/website?label=devmdmamun.com&style=for-the-badge&url=https%3A%2F%2Fdevmdmamun.com)](https://devmdmamun.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devmdmamun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevmdmamun&screen_name=devmdmamun)
 
-## I'm a Student & Self-taught Developer!!
+## I'm a Self-taught Frontend web Developer!!
 
 - 🖥️ My recent project: [Project manager][project]!
 - 👷 I'm currently working on a react project manager.
-- 🏫 I’m currently learning React js & firebase.
+- 🏫 I’m currently building my portfolio.
 - 🥅 2022 Goals: Learning useful technology that I don't know.
 - ⚡ Fun fact: I love programming.
 
@@ -36,4 +36,3 @@
 [website]: https://devmdmamun.com
 [project]: https://proligz.web.app/
 [twitter]: https://twitter.com/devmdmamun
-[instagram]: https://instagram.com/devmdmamun
