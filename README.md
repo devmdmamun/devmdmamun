@@ -1,10 +1,5 @@
 ![Banner](./img/banner.png)
 
-[![Website](https://img.shields.io/website?label=devmdmamun.com&style=for-the-badge&url=https%3A%2F%2Fdevmdmamun.com)](https://devmdmamun.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/devmdmamun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevmdmamun&screen_name=devmdmamun)
-
-## I'm a Self-taught Frontend web Developer!!
-
 - 🖥️ My recent project: [Project manager][project]!
 - 👷 I'm currently working on a react project manager.
 - 🏫 I’m currently building my portfolio.
