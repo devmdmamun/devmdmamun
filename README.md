@@ -1,8 +1,8 @@
 ![Banner](./img/banner.png)
 
 - 🖥️ My recent project: [Project manager][project]!
-- 👷 I'm currently working on a react project manager.
-- 🏫 I’m currently building my portfolio.
+- 👷 I'm currently working on a Productivity and project management site.
+- 🏫 I'm looking for jobs and doing side projects.
 - 🥅 2022 Goals: Learning useful technology that I don't know.
 - ⚡ Fun fact: I love programming.
 
