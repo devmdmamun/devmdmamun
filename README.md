@@ -1,7 +1,7 @@
 ![Banner](./img/banner.png)
 
 - 🖥️ My recent project: [Project manager][project]!
-- 👷 I'm currently working on a Productivity and project management site.
+- 👷 I'm currently working on a [Productivity + project management site.](https://sociallig.netlify.app)
 - 🏫 I'm looking for jobs and doing side projects.
 - 🥅 2022 Goals: Learning useful technology that I don't know.
 - ⚡ Fun fact: I love programming.
